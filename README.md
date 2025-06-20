@@ -160,7 +160,7 @@ function logWaterData(string memory id, uint256 usage, uint256 errCode) public {
 
 ---
 
-🤝 Acknowledgments
+## 🤝 Acknowledgments
 This project is part of the Spanish C107/23 initiative:
 "Artificial Intelligence Applied to Cybersecurity in Critical Water and Sanitation Infrastructures"
 Funded by the European Union – Next Generation EU, coordinated by INCIBE.
