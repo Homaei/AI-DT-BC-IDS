@@ -91,22 +91,28 @@ Water meters showing non-zero consumption between 00:00–06:00 are flagged.
 
 Figure 4: Night Consumption of Leaking Meter
 
-⚙️ Performance & Scalability
-Transaction Latency and Throughput
-Batch Size	TPS	Mean Latency (s)	Max Latency (s)
-1	110	1.2	2.1
-5	96	1.5	2.4
-10	89	1.7	2.8
-20	81	2.1	3.5
+## ⚙️ Performance & Scalability
+
+### Transaction Latency and Throughput
+
+| **Batch Size** | **TPS** | **Mean Latency (s)** | **Max Latency (s)** |
+|----------------|---------|----------------------|----------------------|
+| 1              | 110     | 1.2                  | 2.1                  |
+| 5              | 96      | 1.5                  | 2.4                  |
+| 10             | 89      | 1.7                  | 2.8                  |
+| 20             | 81      | 2.1                  | 3.5                  |
 
 
 
-💰 Cost Estimation (6-Month Pilot)
-Component	Cost (EUR)	Notes
-Hetzner VPS	€120–300	Server hosting for validator nodes
-Maintenance	~€50	Occasional updates
-Energy	Included	Covered by provider
-Smart Contracts	Near-zero	Custom PoA with gas price = 0
+## 💰 Cost Estimation (6-Month Pilot)
+
+| **Component**     | **Cost (EUR)** | **Notes**                                 |
+|-------------------|----------------|-------------------------------------------|
+| Hetzner VPS       | €120–300       | Server hosting for validator nodes        |
+| Maintenance       | ~€50           | Occasional updates                        |
+| Energy            | Included       | Covered by provider                       |
+| Smart Contracts   | Near-zero      | Custom PoA with gas price = 0             |
+
 
 
 
