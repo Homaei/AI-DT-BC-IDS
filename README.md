@@ -76,7 +76,8 @@ struct WaterData {
 }
 mapping(string => WaterData[]) public waterLogs;
 function logWaterData(string memory id, uint256 usage, uint256 errCode) public { ... }
-
+```
+----
 Figure 2: Blockchain Smart Contract Flow
 
 🧪 IDS Evaluation Results
