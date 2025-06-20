@@ -204,7 +204,7 @@ Homaei, Mohammadhossein, Victor Gonzalez Morales, Óscar Mogollón Gutiérrez, R
 ```
 ### Contributors
 
-- [Hubert Homaei](https://github.com/homaei), [Victor Gonzalez Morales] (https://github.com/vggm), [Oscar Mogollon](https://github.com/omogollo2). 
+- [Hubert Homaei](https://github.com/homaei), [Victor Gonzalez](https://github.com/vggm), [Oscar Mogollon](https://github.com/omogollo2). 
 
 ---
 ## License
