@@ -159,23 +159,41 @@ function logWaterData(string memory id, uint256 usage, uint256 errCode) public {
 
 
 
-
+---
 
 🤝 Acknowledgments
 This project is part of the Spanish C107/23 initiative:
 "Artificial Intelligence Applied to Cybersecurity in Critical Water and Sanitation Infrastructures"
 Funded by the European Union – Next Generation EU, coordinated by INCIBE.
 
+---
 
 
+📚 How to Cite This Work
+If you use this research in your work, please cite it using one of the following formats:
 
-📚 Citation
-If you use this work, please cite:
+📌 APA (7th Edition)
+arXiv version:
+Homaei, M., Gonzalez Morales, V., Mogollón Gutiérrez, Ó., Molano Gómez, R., & Caro, A. (2025). Smart Water Security with AI and Blockchain-Enhanced Digital Twins. arXiv. https://doi.org/10.48550/arXiv.2504.20275
 
-@inproceedings{Homaei2025WaterDT,
-  title={Smart Water Security with AI and Blockchain-Enhanced Digital Twins},
-  author={Mohammadhossein Homaei and Víctor González Morales and Óscar Mogollón Gutiérrez and Rubén Molano Gómez and Andrés Caro},
-  booktitle={IEEE Conference},
-  year={2025}
+📌 IEEE
+arXiv version:
+M. Homaei, V. Gonzalez Morales, Ó. Mogollón Gutiérrez, R. Molano Gómez, and A. Caro, “Smart Water Security with AI and Blockchain-Enhanced Digital Twins,” arXiv, 2025. [Online]. Available: https://doi.org/10.48550/arXiv.2504.20275
+
+📌 Chicago (Author-Date)
+arXiv version:
+Homaei, Mohammadhossein, Victor Gonzalez Morales, Óscar Mogollón Gutiérrez, Ruben Molano Gómez, and Andres Caro. 2025. Smart Water Security with AI and Blockchain-Enhanced Digital Twins. arXiv. https://doi.org/10.48550/arXiv.2504.20275
+
+📌 BibTeX
+```
+@misc{homaei2025smart,
+  author       = {Homaei, Mohammadhossein and Gonzalez Morales, Victor and Mogollon Gutierrez, Oscar and Molano Gomez, Ruben and Caro, Andres},
+  title        = {Smart Water Security with AI and Blockchain-Enhanced Digital Twins},
+  year         = {2025},
+  publisher    = {arXiv},
+  doi          = {10.48550/arXiv.2504.20275},
+  url          = {https://arxiv.org/abs/2504.20275},
+  note         = {arXiv preprint arXiv:2504.20275},
+  keywords     = {Cryptography and Security (cs.CR), Artificial Intelligence (cs.AI), Machine Learning (cs.LG)}
 }
-
+```
