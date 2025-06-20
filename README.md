@@ -172,22 +172,25 @@ Funded by the European Union – Next Generation EU, coordinated by INCIBE.
 📚 How to Cite This Work
 If you use this research in your work, please cite it using one of the following formats:
 
-📌 APA (7th Edition)
-arXiv version:
+### 📌 APA (7th Edition)
+
+**arXiv version**:
 Homaei, M., Gonzalez Morales, V., Mogollón Gutiérrez, Ó., Molano Gómez, R., & Caro, A. (2025). Smart Water Security with AI and Blockchain-Enhanced Digital Twins. arXiv. https://doi.org/10.48550/arXiv.2504.20275
 
 ---
-📌 IEEE
-arXiv version:
+
+### 📌 IEEE
+
+**arXiv version**:  
 M. Homaei, V. Gonzalez Morales, Ó. Mogollón Gutiérrez, R. Molano Gómez, and A. Caro, “Smart Water Security with AI and Blockchain-Enhanced Digital Twins,” arXiv, 2025. [Online]. Available: https://doi.org/10.48550/arXiv.2504.20275
 
----
-📌 Chicago (Author-Date)
-arXiv version:
+### 📌 Chicago (Author-Date)
+
+**arXiv version**: 
 Homaei, Mohammadhossein, Victor Gonzalez Morales, Óscar Mogollón Gutiérrez, Ruben Molano Gómez, and Andres Caro. 2025. Smart Water Security with AI and Blockchain-Enhanced Digital Twins. arXiv. https://doi.org/10.48550/arXiv.2504.20275
 
 ---
-📌 BibTeX
+### 📌 BibTeX
 ```
 @misc{homaei2025smart,
   author       = {Homaei, Mohammadhossein and Gonzalez Morales, Victor and Mogollon Gutierrez, Oscar and Molano Gomez, Ruben and Caro, Andres},
@@ -200,3 +203,7 @@ Homaei, Mohammadhossein, Victor Gonzalez Morales, Óscar Mogollón Gutiérrez, R
   keywords     = {Cryptography and Security (cs.CR), Artificial Intelligence (cs.AI), Machine Learning (cs.LG)}
 }
 ```
+---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
