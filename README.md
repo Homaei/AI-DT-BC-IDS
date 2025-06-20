@@ -133,20 +133,7 @@ struct WaterData {
 mapping(string => WaterData[]) public waterLogs;
 function logWaterData(string memory id, uint256 usage, uint256 errCode) public { ... }
 ```
-----
-Figure 2: Blockchain Smart Contract Flow
-
-🧪 IDS Evaluation Results
-Anomaly detection was tested on 400 real/simulated meters with synthetic attack injections.
-
-
-Figure 3: Precision, Recall, and F1 per Attack Type
-
-🚿 Leak Detection Example
-Water meters showing non-zero consumption between 00:00–06:00 are flagged.
-
-
-Figure 4: Night Consumption of Leaking Meter
+-----
 
 ## ⚙️ Performance & Scalability
 
