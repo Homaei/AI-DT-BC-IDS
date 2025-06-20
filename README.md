@@ -12,9 +12,36 @@ Water systems in under-connected rural areas are vulnerable to data tampering, i
 - Blockchain for secure data storage and billing automation.
 - AI for early leak detection and cyberattack prevention.
 
-![Digital Twin Platform](./results/Digital_Twins.png)
+## 🧠 Architecture Overview
 
-*Figure 1: Digital Twin Architecture Overview*
+![Digital Twin Platform](./Digital_Twins.png)
+
+*Figure 1: Overview of the Digital Twin system for secure water management.*
+
+---
+
+## 🔗 Blockchain Interface
+
+![Blockchain Interface](./Blockchain_Interface.png)
+
+*Figure 2: Technologies integrated on the blockchain side of the platform.*
+
+---
+
+## 📜 Smart Contract Logic
+
+![Smart Contract Flow](./BC_Smart_Contract.png)
+
+*Figure 3: Smart contract structure managing water data and meter registration.*
+
+---
+
+## 🚿 Leak Detection Result
+
+![Night Consumption Heatmap](./Nightconsumption.png)
+
+*Figure 4: Heatmap showing consistent water flow at night indicating potential leakage.*
+
 
 ---
 
