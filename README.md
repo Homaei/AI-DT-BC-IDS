@@ -14,7 +14,6 @@ Water systems in under-connected rural areas are vulnerable to data tampering, i
 
 ## 🧠 Architecture Overview
 
-## 🧠 Digital Twin Architecture
 
 ![Digital Twin Platform](./Digital_Twins.png)
 
@@ -203,6 +202,10 @@ Homaei, Mohammadhossein, Victor Gonzalez Morales, Óscar Mogollón Gutiérrez, R
   keywords     = {Cryptography and Security (cs.CR), Artificial Intelligence (cs.AI), Machine Learning (cs.LG)}
 }
 ```
+### Contributors
+
+- [Hubert Homaei](https://github.com/homaei), [Victor Gonzalez Morales] (https://github.com/vggm), [Oscar Mogollon](https://github.com/omogollo2). 
+
 ---
 ## License
 
