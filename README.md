@@ -184,6 +184,7 @@ Homaei, M., Gonzalez Morales, V., Mogollón Gutiérrez, Ó., Molano Gómez, R., 
 **arXiv version**:  
 M. Homaei, V. Gonzalez Morales, Ó. Mogollón Gutiérrez, R. Molano Gómez, and A. Caro, “Smart Water Security with AI and Blockchain-Enhanced Digital Twins,” arXiv, 2025. [Online]. Available: https://doi.org/10.48550/arXiv.2504.20275
 
+---
 ### 📌 Chicago (Author-Date)
 
 **arXiv version**: 
