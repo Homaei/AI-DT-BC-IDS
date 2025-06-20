@@ -14,34 +14,63 @@ Water systems in under-connected rural areas are vulnerable to data tampering, i
 
 ## 🧠 Architecture Overview
 
+## 🧠 Digital Twin Architecture
+
 ![Digital Twin Platform](./Digital_Twins.png)
 
-*Figure 1: Overview of the Digital Twin system for secure water management.*
+*Figure 1: A Digital Twin Platform in the Water Industry.*
 
 ---
 
-## 🔗 Blockchain Interface
+## 🔗 Blockchain Integration
 
 ![Blockchain Interface](./Blockchain_Interface.png)
 
-*Figure 2: Technologies integrated on the blockchain side of the platform.*
+*Figure 2: Technologies in the Platform on the Blockchain Side.*
 
 ---
 
-## 📜 Smart Contract Logic
+## 📜 Smart Contract Design
 
 ![Smart Contract Flow](./BC_Smart_Contract.png)
 
-*Figure 3: Smart contract structure managing water data and meter registration.*
+*Figure 3: Proposed Smart Contract Structure for the DT Platform.*
 
 ---
 
-## 🚿 Leak Detection Result
+## 🚿 Leakage Detection Results
 
 ![Night Consumption Heatmap](./Nightconsumption.png)
 
-*Figure 4: Heatmap showing consistent water flow at night indicating potential leakage.*
+*Figure 4: Night consumption heatmap for a water meter with leakage.*
 
+![Normal Usage vs Median](./Normal.png)
+
+*Figure 5: Comparison of normal and median usage patterns.*
+
+![Leaked Meters Overview](./Leakedmeters.png)
+
+*Figure 6: Leaked meters and their consumption during nights.*
+
+---
+
+## 🧪 Anomaly Detection Results via IDS
+
+![Detected Anomalies: Leakage vs Spikes](./Anomaly.png)
+
+*Figure 7: Comparison between night leakage pattern and injected spikes.*
+
+![Anomalous vs Median Usage](./Anomalyusage.png)
+
+*Figure 8: Detected anomalies compared with median usage baseline.*
+
+---
+
+## 🔎 IDS Performance Heatmap
+
+![IDS Performance Heatmap](./HitmapAttack.png)
+
+*Figure 9: Heatmap of Precision, Recall, and F1-Score per attack type.*
 
 ---
 
