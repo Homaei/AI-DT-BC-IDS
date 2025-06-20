@@ -44,7 +44,7 @@ Water systems in under-connected rural areas are vulnerable to data tampering, i
 ---
 
 ## 📁 Directory Structure
-
+```
 .
 ├── algorithms/ # AI IDS implementation
 ├── contracts/ # Smart contract (Solidity)
@@ -53,7 +53,7 @@ Water systems in under-connected rural areas are vulnerable to data tampering, i
 ├── notebooks/ # IDS training and visualization
 ├── results/ # Figures and evaluation results
 └── README.md
-
+```
 
 
 ---
