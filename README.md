@@ -1,4 +1,5 @@
 # Smart Water Security with AI and Blockchain-Enhanced Digital Twins
+> A scalable, secure, AI- and blockchain-based digital twin platform for rural water management.
 
 This repository contains the implementation of a secure, intelligent digital twin (DT) platform for rural water distribution networks. The system integrates **LoRaWAN-based data acquisition**, an **AI-powered Intrusion Detection System (IDS)** using **LSTM Autoencoder and Isolation Forest**, and a **private Ethereum blockchain** with **Proof of Authority (PoA)** to ensure tamper-proof and transparent water management.
 
@@ -209,4 +210,4 @@ Homaei, Mohammadhossein, Victor Gonzalez Morales, Óscar Mogollón Gutiérrez, R
 ---
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
